@@ -1,0 +1,15 @@
+C:\Repos\DevOpsDeploy\bin\Debug\netcoreapp3.1\DevOpsDeploy.exe
+C:\Repos\DevOpsDeploy\bin\Debug\netcoreapp3.1\DevOpsDeploy.deps.json
+C:\Repos\DevOpsDeploy\bin\Debug\netcoreapp3.1\DevOpsDeploy.runtimeconfig.json
+C:\Repos\DevOpsDeploy\bin\Debug\netcoreapp3.1\DevOpsDeploy.runtimeconfig.dev.json
+C:\Repos\DevOpsDeploy\bin\Debug\netcoreapp3.1\DevOpsDeploy.dll
+C:\Repos\DevOpsDeploy\bin\Debug\netcoreapp3.1\DevOpsDeploy.pdb
+C:\Repos\DevOpsDeploy\obj\Debug\netcoreapp3.1\DevOpsDeploy.AssemblyInfoInputs.cache
+C:\Repos\DevOpsDeploy\obj\Debug\netcoreapp3.1\DevOpsDeploy.AssemblyInfo.cs
+C:\Repos\DevOpsDeploy\obj\Debug\netcoreapp3.1\DevOpsDeploy.dll
+C:\Repos\DevOpsDeploy\obj\Debug\netcoreapp3.1\DevOpsDeploy.pdb
+C:\Repos\DevOpsDeploy\obj\Debug\netcoreapp3.1\DevOpsDeploy.genruntimeconfig.cache
+C:\Repos\DevOpsDeploy\obj\Debug\netcoreapp3.1\DevOpsDeploy.csproj.CoreCompileInputs.cache
+C:\Repos\DevOpsDeploy\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Repos\DevOpsDeploy\obj\Debug\netcoreapp3.1\DevOpsDeploy.csproj.CopyComplete
+C:\Repos\DevOpsDeploy\obj\Debug\netcoreapp3.1\DevOpsDeploy.csprojAssemblyReference.cache
