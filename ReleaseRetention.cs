@@ -4,6 +4,7 @@ using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
+using System.Threading.Tasks.Dataflow;
 
 namespace DevOpsDeploy
 {
@@ -70,16 +71,16 @@ namespace DevOpsDeploy
         {
             // Return List of Deployment Array Data
             JArray json = GetJsonArrayFromFile(_deploymentsfilename);
-            IList<Deployment> deployment = json.ToObject<IList<Deployment>>();
-            return deployment;
+            IList<Deployment> deploymentList = json.ToObject<IList<Deployment>>();  
+            return deploymentList;
         }
 
         private static IList<Release> GetReleaseItems()
         {
             // Return List of Release Array Data
             JArray json = GetJsonArrayFromFile(_releasesfilename);
-            IList<Release> release = json.ToObject<IList<Release>>();
-            return release;
+            IList<Release> releaseList = json.ToObject<IList<Release>>();
+            return releaseList;
         }
 
     }

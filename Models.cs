@@ -2,15 +2,15 @@
 
 namespace Models
 {
-	public class Deployment
-	{
+    public class Deployment
+    {
         public string Id { get; set; }
         public string ReleaseId { get; set; }
         public string EnvironmentId { get; set; }
         public string DeployedAt { get; set; }
-	}
+    }
 
-	public class Common
+    public class Common
     {
         public string Id { get; set; }
         public string Name { get; set; }
